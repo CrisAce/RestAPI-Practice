@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="LoginTests" verbose="1" >
+    <test name="ForgotPasswordTest" >
+    <classes>
+        <class name="org.test.automation.world.restul.booker.herokuapp.com.CreateBookingPOST">
+        </class>
+    </classes>
+</test>
+</suite>
